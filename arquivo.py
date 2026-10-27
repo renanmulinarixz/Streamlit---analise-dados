@@ -78,7 +78,7 @@ def carregar_dados(caminho_arquivo):
     return df_completo
 
 
-caminho_arquivo = r"H:\streamlit_projeto\Tabela 1.1.2.xls"
+caminho_arquivo = r"Tabela 1.1.2.xls"
 
 
 try:
